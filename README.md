@@ -1,5 +1,7 @@
 # Recipes Blog - Group 4
 
+![Screenshot of 'How Not To Cook' blog](https://i.ibb.co/R7dFjJb/Screenshot-2020-09-15-at-12-34-41.png)
+
 ## Objectives
 
 - Build a React.js app with Contentful as the CMS
